@@ -15,6 +15,9 @@ Welcome to DC Social, a social media website built with ReactJS that aims to con
 
 DC Social is a React-based social media platform designed to bring people together in a virtual space. It allows users to create profiles, share posts, interact with each other through likes and comments, and build connections.
 
+![image](https://github.com/divyan7982/DC-SOCIAL/assets/131895243/09adbb2f-61ad-411e-b792-46ecd637a890)
+
+
 ## Features
 
 - **User Authentication:** Secure registration and login system.
