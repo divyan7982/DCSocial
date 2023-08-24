@@ -25,8 +25,8 @@ const Post = () => {
             <MoreVert />
           </IconButton>
         }
-        title="John Doe"
-        subheader="September 14, 2022"
+        title="Divyanshu"
+        subheader="August 23,2023"
       />
       <CardMedia
         component="img"
