@@ -49,7 +49,7 @@ Follow these steps to set up the project on your local machine:
 
 ## Contributing
 
-Contributions to DC Social are welcome! If you find any issues or have ideas for improvements, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
+Contributions to DC Social are welcome! If you find any issues or have ideas for improvements, please submit a pull request.
 
 ## License
 
