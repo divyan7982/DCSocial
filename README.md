@@ -55,6 +55,3 @@ Contributions to DC Social are welcome! If you find any issues or have ideas for
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to customize this README further to fit your project's specific details. Good luck with your ReactJS development!
